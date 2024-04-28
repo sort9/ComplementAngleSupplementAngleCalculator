@@ -1,6 +1,4 @@
-# Sorrxw 
 # Complement Angle and Supplement Angle Calculator
-# Circa 8/22/2023
 
 import math
 
